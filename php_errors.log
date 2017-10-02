@@ -1,0 +1,45 @@
+[02-Oct-2017 02:11:39 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/ubuntu/workspace/hello-world.php on line 18
+[02-Oct-2017 02:11:39 UTC] PHP Stack trace:
+[02-Oct-2017 02:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/hello-world.php:0
+[02-Oct-2017 02:11:39 UTC] PHP   2. array_map() /home/ubuntu/workspace/hello-world.php:26
+[02-Oct-2017 02:11:39 UTC] PHP   3. replace() /home/ubuntu/workspace/hello-world.php:26
+[02-Oct-2017 02:11:39 UTC] PHP   4. array_keys() /home/ubuntu/workspace/hello-world.php:18
+[02-Oct-2017 02:11:39 UTC] PHP Warning:  array_combine() expects parameter 1 to be array, string given in /home/ubuntu/workspace/hello-world.php on line 22
+[02-Oct-2017 02:11:39 UTC] PHP Stack trace:
+[02-Oct-2017 02:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/hello-world.php:0
+[02-Oct-2017 02:11:39 UTC] PHP   2. array_map() /home/ubuntu/workspace/hello-world.php:26
+[02-Oct-2017 02:11:39 UTC] PHP   3. replace() /home/ubuntu/workspace/hello-world.php:26
+[02-Oct-2017 02:11:39 UTC] PHP   4. array_combine() /home/ubuntu/workspace/hello-world.php:22
+[02-Oct-2017 02:11:39 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/ubuntu/workspace/hello-world.php on line 18
+[02-Oct-2017 02:11:39 UTC] PHP Stack trace:
+[02-Oct-2017 02:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/hello-world.php:0
+[02-Oct-2017 02:11:39 UTC] PHP   2. array_map() /home/ubuntu/workspace/hello-world.php:26
+[02-Oct-2017 02:11:39 UTC] PHP   3. replace() /home/ubuntu/workspace/hello-world.php:26
+[02-Oct-2017 02:11:39 UTC] PHP   4. array_keys() /home/ubuntu/workspace/hello-world.php:18
+[02-Oct-2017 02:11:39 UTC] PHP Warning:  array_combine() expects parameter 1 to be array, string given in /home/ubuntu/workspace/hello-world.php on line 22
+[02-Oct-2017 02:11:39 UTC] PHP Stack trace:
+[02-Oct-2017 02:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/hello-world.php:0
+[02-Oct-2017 02:11:39 UTC] PHP   2. array_map() /home/ubuntu/workspace/hello-world.php:26
+[02-Oct-2017 02:11:39 UTC] PHP   3. replace() /home/ubuntu/workspace/hello-world.php:26
+[02-Oct-2017 02:11:39 UTC] PHP   4. array_combine() /home/ubuntu/workspace/hello-world.php:22
+[02-Oct-2017 02:11:39 UTC] PHP Warning:  array_flip(): Can only flip STRING and INTEGER values! in /home/ubuntu/workspace/hello-world.php on line 29
+[02-Oct-2017 02:11:39 UTC] PHP Stack trace:
+[02-Oct-2017 02:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/hello-world.php:0
+[02-Oct-2017 02:11:39 UTC] PHP   2. array_flip() /home/ubuntu/workspace/hello-world.php:29
+[02-Oct-2017 02:11:39 UTC] PHP Warning:  array_flip(): Can only flip STRING and INTEGER values! in /home/ubuntu/workspace/hello-world.php on line 29
+[02-Oct-2017 02:11:39 UTC] PHP Stack trace:
+[02-Oct-2017 02:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/hello-world.php:0
+[02-Oct-2017 02:11:39 UTC] PHP   2. array_flip() /home/ubuntu/workspace/hello-world.php:29
+[02-Oct-2017 02:27:47 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/hello-world.php on line 2
+[02-Oct-2017 02:28:01 UTC] PHP Warning:  preg_replace(): Delimiter must not be alphanumeric or backslash in /home/ubuntu/workspace/hello-world.php on line 12
+[02-Oct-2017 02:28:01 UTC] PHP Stack trace:
+[02-Oct-2017 02:28:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hello-world.php:0
+[02-Oct-2017 02:28:01 UTC] PHP   2. array_map() /home/ubuntu/workspace/hello-world.php:18
+[02-Oct-2017 02:28:01 UTC] PHP   3. replace() /home/ubuntu/workspace/hello-world.php:18
+[02-Oct-2017 02:28:01 UTC] PHP   4. preg_replace() /home/ubuntu/workspace/hello-world.php:12
+[02-Oct-2017 02:29:19 UTC] PHP Warning:  preg_replace(): Parameter mismatch, pattern is a string while replacement is an array in /home/ubuntu/workspace/hello-world.php on line 12
+[02-Oct-2017 02:29:19 UTC] PHP Stack trace:
+[02-Oct-2017 02:29:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/hello-world.php:0
+[02-Oct-2017 02:29:19 UTC] PHP   2. array_map() /home/ubuntu/workspace/hello-world.php:18
+[02-Oct-2017 02:29:19 UTC] PHP   3. replace() /home/ubuntu/workspace/hello-world.php:18
+[02-Oct-2017 02:29:19 UTC] PHP   4. preg_replace() /home/ubuntu/workspace/hello-world.php:12
